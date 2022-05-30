@@ -1,4 +1,4 @@
-# Overview of the UFO Project
+# Overview of Project
 
 ## Purpose
 
